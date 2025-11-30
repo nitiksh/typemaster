@@ -26,13 +26,6 @@ You can view the full product details, screenshots, and download links here:
 
 ---
 
-## 📄 About This Page
-
-This repository includes a static HTML file that is intended to serve as a gateway to the official TypeMaster product page.  
-It may be used in situations where hosting platforms or old URLs require a landing page before linking to the main site.
-
----
-
 ## 📬 Contact
 
 For feature requests, feedback, or support, please reach out via the official NTXM website.  
