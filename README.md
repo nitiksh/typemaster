@@ -39,7 +39,7 @@ Boost your code typing speed and accuracy across major programming languages:
 - **Real-Time Audio & Visual Feedback**: Optional mechanical keyboard sounds, visual key guidance, and error indicators.
 - **Timed Speed Tests**: Evaluate your typing speed with 1-minute, 3-minute, and 5-minute typing tests.
 
-### 🏫 4. School & Education Portal (Desktop App)
+### 🏫 4. School & Education Portal (Desktop App -  Coming Soon)
 
 A complete offline education platform designed for computer labs and classroom learning:
 
